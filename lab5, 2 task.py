@@ -5,7 +5,7 @@ from tkinter.ttk import Label
 CITY = 'Saint-Petersburg'
 COUNTRY = 'Russia'
 LANGUAGE = 'ru'
-TOKEN = 'b2ca9dc25be7d54a725eb797d5821fc1'
+TOKEN = ''
 HEIGHT = 720
 WIDTH = 1280
  
